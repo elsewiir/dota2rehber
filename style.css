@@ -12,12 +12,17 @@ h3 {
   font-weight: 700;
 }
 
-p {
+.cevaplar {
   font-style: italic;
   font-size: 15px;
   text-indent: 3%;
   text-align: justify;
   font-family: 'Roboto Mono', monospace, serif;
+}
+.sidebar_content {
+  font-size: 15px;
+  text-align: left;
+  font-family: monospace, serif;
 }
 .content {
   margin-top: 40px;
