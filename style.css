@@ -17,7 +17,7 @@ article p {
   font-size: 15px;
   text-indent: 1%;
   text-align: justify;
-  font-family: 'Roboto Mono', monospace, serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .sidebar_content {
   font-size: 15px;
@@ -50,5 +50,6 @@ article p {
   .side1 {
     grid-column: 3;
     grid-row: 2;
+
   }
 }
