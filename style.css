@@ -50,6 +50,5 @@ article p {
   .side1 {
     grid-column: 3;
     grid-row: 2;
-    position: fixed;
   }
 }
