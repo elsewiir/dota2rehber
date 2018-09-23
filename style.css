@@ -13,9 +13,9 @@ h3 {
 }
 
 article p {
-  font-style: italic;
+  /*font-style: italic;*/
   font-size: 15px;
-  text-indent: 2%;
+  text-indent: 1%;
   text-align: justify;
   font-family: 'Roboto Mono', monospace, serif;
 }
